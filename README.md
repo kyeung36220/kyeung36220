@@ -7,8 +7,8 @@ I'm a recent graduate currently diving deep into the world of web development. I
   * [Live Preview](https://kyeung36220.github.io/restaurant-page/)
   * [Repo](https://github.com/kyeung36220/restaurant-page)
 * **Tic-Tac-Toe** ❌⭕
-  * [Live Preview](https://github.com/kyeung36220/tic-tac-toe)
-  * [Repo](https://kyeung36220.github.io/tic-tac-toe/)
+  * [Live Preview](https://kyeung36220.github.io/tic-tac-toe/)
+  * [Repo](https://github.com/kyeung36220/tic-tac-toe)
 * **Library Tracker** 📖
   * [Live Preview](https://kyeung36220.github.io/library/)
   * [Repo](https://github.com/kyeung36220/library)
