@@ -3,6 +3,9 @@
 I'm a recent graduate currently diving deep into the world of web development. I'm passionate about building user-friendly interfaces, interactive applications, and fun websites!
 
 ## Recent Projects
+* **To-Do List** ✅
+  * [Live Preview](https://kyeung36220.github.io/todo-list/)
+  * [Repo](https://github.com/kyeung36220/todo-list)
 * **Restaurant Page** 🍽️
   * [Live Preview](https://kyeung36220.github.io/restaurant-page/)
   * [Repo](https://github.com/kyeung36220/restaurant-page)
