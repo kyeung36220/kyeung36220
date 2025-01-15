@@ -14,9 +14,7 @@ I'm a recent graduate currently diving deep into the world of web development. I
   * [Repo](https://github.com/kyeung36220/tic-tac-toe)
  
 ## Skills
-* **Languages:** HTML, CSS, JavaScript
-* **Tools:** Git, GitHub, VS Code, npm
-* **Concepts:** DOM manipulation, Responsive Design, Event Handling
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,c,git,github,godot,ps)](https://skillicons.dev)
 
 ## Contact
 * **Email:** kyeung36220@gmail.com
