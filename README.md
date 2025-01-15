@@ -11,11 +11,8 @@ I'm a recent graduate currently diving deep into the world of web development. I
   * [Repo](https://github.com/kyeung36220/restaurant-page)
 * **Tic-Tac-Toe** ❌⭕
   * [Live Preview](https://kyeung36220.github.io/tic-tac-toe/)
-  * [Repo](https://github.com/kyeung36220/tic-tac-toe)
-* **Library Tracker** 📖
-  * [Live Preview](https://kyeung36220.github.io/library/)
-  * [Repo](https://github.com/kyeung36220/library)
-
+  * [Repo](https://github.com/kyeung36220/tic-tac-toe)]
+ 
 ## Skills
 * **Languages:** HTML, CSS, JavaScript
 * **Tools:** Git, GitHub, VS Code, npm
