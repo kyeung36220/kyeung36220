@@ -1,6 +1,4 @@
-# Hi, I'm Kenneth 👋👨‍💻
-
-I'm a recent graduate currently diving deep into the world of web development. I'm passionate about building user-friendly interfaces, interactive applications, and fun websites!
+![Header](./githubHeader.png)
 
 ## Recent Projects
 * **To-Do List** ✅
