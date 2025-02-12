@@ -14,9 +14,9 @@
 * **Restaurant Page** 
   * [Live Preview](https://kyeung36220.github.io/restaurant-page/)
   * [Repo](https://github.com/kyeung36220/restaurant-page)
-* **Tic-Tac-Toe** 
-  * [Live Preview](https://kyeung36220.github.io/tic-tac-toe/)
-  * [Repo](https://github.com/kyeung36220/tic-tac-toe)
+* **Battleship** 
+  * [Live Preview](https://kyeung36220.github.io/battleship/)
+  * [Repo](https://github.com/kyeung36220/battleship)
  
 ## Skills 🎯
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,c,npm,webpack,regex,git,github,ps,godot)](https://skillicons.dev)
