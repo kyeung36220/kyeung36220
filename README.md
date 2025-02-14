@@ -1,4 +1,4 @@
-# Hello World, I am [Kenneth Yeung](https://www.linkedin.com/in/kenneth-yeung/) 👋
+# Hello World, I am [Kenneth Yeung](https://kyeung36220.github.io/homepage/) 👋
 <a href="https://www.linkedin.com/in/kenneth-yeung/">
   <img align="left" width="24px" src="https://cdn.simpleicons.org/linkedin"  />
 </a>
