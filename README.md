@@ -8,12 +8,12 @@
 <br />
 
 ## Recent Projects 🚀
+* **Resume Builder**
+  * [Live Preview](https://swift-resume.pages.dev/)
+  * [Repo](https://github.com/kyeung36220/resume-creator)
 * **To-Do List** 
   * [Live Preview](https://kyeung36220.github.io/todo-list/)
   * [Repo](https://github.com/kyeung36220/todo-list)
-* **Restaurant Page** 
-  * [Live Preview](https://kyeung36220.github.io/restaurant-page/)
-  * [Repo](https://github.com/kyeung36220/restaurant-page)
 * **Battleship** 
   * [Live Preview](https://kyeung36220.github.io/battleship/)
   * [Repo](https://github.com/kyeung36220/battleship)
