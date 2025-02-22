@@ -19,7 +19,7 @@
   * [Repo](https://github.com/kyeung36220/battleship)
  
 ## Skills 🎯
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,c,npm,webpack,regex,git,github,ps,godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,py,c,npm,webpack,regex,git,github,ps,godot)](https://skillicons.dev)
 
 ## Contributions 🤝
 I'm always open to learning and collaborating on new projects. Feel free to connect with me!
